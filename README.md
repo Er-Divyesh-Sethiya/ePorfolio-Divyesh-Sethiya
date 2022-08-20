@@ -1,9 +1,15 @@
 # Divyesh Sethiya
+
+
 <img src="https://user-images.githubusercontent.com/103837830/185735958-8fae0b13-49a1-4912-bf2c-bbe312d200d9.jpg" width="200" height="200" /> 
+
 Data Science Certification 
+
 2021-2022
-linkedin: https://www.linkedin.com/in/divyesh-sethiya-610962b1
-<img src="https://user-images.githubusercontent.com/103837830/185736086-2f394d1b-dcf9-42ed-b77c-33bd9b90d562.png" width="200" height="100" />
+
+[Linkedin](https://www.linkedin.com/in/divyesh-sethiya-610962b1)
+
+<img src="https://user-images.githubusercontent.com/103837830/185736086-2f394d1b-dcf9-42ed-b77c-33bd9b90d562.png" width="100" height="50" />
 
 ## SELF PROJECT
 ### Predictive Modelling for Default of Credit Card User 
